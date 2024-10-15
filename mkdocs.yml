@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Internet of Things Documentation Page
+site_name: projectTCG
 site_description: Documentation for Bram van den Dongen
 site_author: Bram van den Dongen
-copyright: Copyright 2022 Bram van den Dongen - Creative Commons Attribution Non Commercial
+copyright: Copyright 2024 Bram van den Dongen - Creative Commons Attribution Non Commercial
   
 theme:
   name: material
