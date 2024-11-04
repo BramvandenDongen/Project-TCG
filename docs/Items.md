@@ -1,0 +1,1 @@
+Items could have effects that trigger every turn. They could have durability counters that get reduced every turn.

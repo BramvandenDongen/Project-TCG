@@ -4,7 +4,7 @@
 #attack #maneuver
 ## Class
 #occultist
-## Rules text
+## Current rules text
 4 attack, when this card is discarded draw a card
 ## Balance changes
 ### First version:

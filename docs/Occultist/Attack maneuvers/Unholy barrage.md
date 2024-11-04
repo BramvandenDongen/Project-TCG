@@ -4,7 +4,7 @@
 #attack #maneuver 
 ## Class
 #occultist 
-## Rules text
+## Current rules text
 as an additional cost to play this card discard both an attack maneuver and a defense maneuver, 10 attack
 ## Balance changes
 ### First version:

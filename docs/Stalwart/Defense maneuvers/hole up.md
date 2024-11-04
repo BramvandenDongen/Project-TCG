@@ -3,10 +3,10 @@
 ## Card Type
 #defense #maneuver 
 ## Class
-#occultist 
+#stalwart 
 ## Current rules text
-defend 4, when this card is discarded draw a card
+you may only play this if you have shields up, defend 6
 ## Balance changes
 ### First version:
-defend 4, when this card is discarded draw a card
+you may only play this if you have shields up, defend 6
 ### Post playtest 1:

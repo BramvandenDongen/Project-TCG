@@ -4,7 +4,7 @@
 #defense #maneuver 
 ## Class
 #occultist 
-## Rules text
+## Current rules text
 as an additional cost to play this card discard a card, defend 4
 ## Balance changes
 ### First version:

@@ -1,12 +1,12 @@
 ## Cost
 2
 ## Card Type
-#defense #maneuver 
+#fast #action 
 ## Class
 #occultist 
 ## Current rules text
-defend 4, when this card is discarded draw a card
+return target card from your discard pile to your hand
 ## Balance changes
 ### First version:
-defend 4, when this card is discarded draw a card
+return target card from your graveyard to your hand
 ### Post playtest 1:

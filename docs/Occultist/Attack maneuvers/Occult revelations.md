@@ -4,9 +4,11 @@
 #attack #maneuver 
 ## Class
 #occultist 
-## Rules text
-if this attack hits, that opponent reveals their hand, you may choose a maneuver for them to discard
+## Current rules text
+8 attack, if this attack hits, that opponent reveals their hand, you may choose a maneuver for them to discard
 ## Balance changes
 ### First version:
-if this attack hits, that opponent reveals their hand, you may choose a maneuver for them to discard
+6 attack, if this attack hits, that opponent reveals their hand, you may choose a maneuver for them to discard
 ### Post playtest 1:
+8 attack, if this attack hits, that opponent reveals their hand, you may choose a maneuver for them to discard
+> Changed as part of raising attack damage

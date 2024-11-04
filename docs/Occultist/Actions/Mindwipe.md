@@ -1,12 +1,12 @@
 ## Cost
 2
 ## Card Type
-#defense #maneuver 
+#slow #action 
 ## Class
 #occultist 
 ## Current rules text
-defend 4, when this card is discarded draw a card
+each player discards their hand and draws 5 cards
 ## Balance changes
 ### First version:
-defend 4, when this card is discarded draw a card
+each player discards their hand and draws 5 cards
 ### Post playtest 1:
